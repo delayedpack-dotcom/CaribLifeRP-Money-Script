@@ -155,9 +155,9 @@ end
 Notify(
     "Delayed", 
     "Warning !", 
-    "Don't forget to spawn a vehicle.\nDiscord: https://discord.com/invite/t2KWyB2beB", 
+    "Don't forget to spawn a vehicle.\nDiscord: https://discord.com/invite/wWfjxQTxVB", 
     7,
-    "https://discord.com/invite/t2KWyB2beB"
+    "https://discord.com/invite/wWfjxQTxVB"
 )
 
 game.ReplicatedStorage.VehicleDealerSystem.Spawner.Events.FuelPumpEvent:FireServer(-1250000)
